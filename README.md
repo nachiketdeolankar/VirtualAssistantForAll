@@ -1,1 +1,3 @@
 # VirtualAssistantForAll
+
+Today our world has been revolving around these virtual assistance. All our phones have and most houses have it. Yes I am talking about Alexa, Google Home and Siri. But one huge problem with these virtual assistants is that they only work if you talk to them because of which huge sector of the population cannot use it. The porpose of the software is to solve just that. This system is supposed to be middle man between the deaf and mute user and the virtual assistant. The system recognises word level American Sign Language, with it converts the sign language into text based input for the assistant and the output from the assistant is display on screen for the user.   
